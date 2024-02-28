@@ -1,0 +1,72 @@
+{
+    "title": "Lisa and Steve's Lunar Adventure",
+    "author": "Philipp Ollmann",
+    "description":"Go on an exciting journey with Lisa and Steve as they land on the moon!",
+    "coverName": "astronaut_cover",
+    "pages": [
+        {
+            "type": "text",
+            "imageName": "astronaut_page1",
+            "text": "Lisa the astronaut and her friend Steve are in their seats, all buckled up inside the rocket getting closer and closer to their destination. They cannot wait to land and start their moon adventure!"
+        },
+        {
+            "type": "text",
+            "imageName": "astronaut_page2",
+            "text": "The rocket touches down on the moon's surface, creating a soft cloud of moon dust. The endless silence of the universe surrounds them."
+        },
+        {
+            "type": "text",
+            "imageName": "astronaut_page3",
+            "text": "Inside the rocket, there is also a helpful robot named Rover. With friendly beeps, Rover is ready to assist, taking care of cleaning and cooking while Lisa and Steve explore the moon."
+        },
+        {
+            "type": "quiz",
+            "question": "Who is helping lisa and steve to clean the rocket and is cooking for them?",
+            "answers": [
+                {
+                    "answer" : "Rover the Robot",
+                    "correct" : true
+                },
+                {
+                    "answer" : "Allen the Alien",
+                    "correct" : false
+                },
+                {
+                    "answer" : "Samy the Dolphin",
+                    "correct" : false
+                },
+                {
+                    "answer" : "Max the Dog",
+                    "correct" : false
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "imageName": "astronaut_page4",
+            "text": "Before going on the moon, Lisa sets up a television to communicate with the Earth. She waves at the screen, sharing her excitement about the moon's beauty and the adventures awaiting them."
+        },
+        {
+            "type": "text",
+            "imageName": "astronaut_page5",
+            "text": "With everything in order, Lisa and Steve get in their spacesuits. Now they are ready to go on the moon. Lisa wants to collect some moon rocks. Can you help her with that?"
+        },
+        {
+            "type": "collect",
+            "title": "Help Lisa and Steve collect some moon stones. The are floating around you. Just click on them to collect.☄️🧺",
+            "amount": 10,
+            "objectName": "asteroid.obj",
+            "textureName": "mars"
+        },
+        {
+            "type": "text",
+            "imageName": "astronaut_page6",
+            "text": "After their moon walk, Lisa and Steve return to the rocket. They sit together, looking at all the cool stones they collected. With notebooks, they share their findings with the people on earth."
+        },
+        {
+            "type": "text",
+            "imageName": "astronaut_page2",
+            "text": "As the first day on the moon comes to an end, Lisa and Steve feel very tired. They have made themselves comfortable in the rocket. Dreaming of more adventures, they cuddle up in their sleeping bags."
+        }
+    ]
+}
