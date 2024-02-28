@@ -4,4 +4,4 @@ ReadUp is a reading coach, supporting and motivating children in their reading l
 
 ReadUp uses the Apple speech framework to listen and track children as they read aloud. When kids get stuck on a word, TextToSpeech is used to read the words to them. In between pages, children have to solve quizzes and AR challenges to keep them interested in reading and check their reading comprehension. The AR challenges were created using ARKit and RealityKit. To ensure extensibility, the books, quizzes and challenges are defined in JSON and can be easily extended. The story was written by me and the sounds were also composed by me using Logic Pro.
 
-![Screenshot](preview.png)
+![Screenshot](showcase.png)
